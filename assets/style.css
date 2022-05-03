@@ -8,6 +8,7 @@
 html {
     font-family: 'montserrat', sans-serif;
     font-weight: 500;
+    scroll-behavior: smooth;
 }
 
 #main {
